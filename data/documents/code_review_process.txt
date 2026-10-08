@@ -1,0 +1,10 @@
+
+Software Code Review Process
+
+Every production code change must be submitted through a pull request before it is merged. The pull request must identify the change, link to the relevant work item, and describe testing performed.
+
+At least two qualified reviewers must approve a production change. One reviewer should be familiar with the affected technical area, and a security reviewer is required when the change affects authentication, authorization, encryption, or sensitive data.
+
+Automated unit tests, integration tests, and static analysis must pass before approval. Reviewers should evaluate correctness, maintainability, error handling, security implications, and test coverage.
+
+The author is responsible for responding to review comments. Branch protection prevents merging when required approvals or automated checks are missing.

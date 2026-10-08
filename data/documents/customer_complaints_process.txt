@@ -1,0 +1,10 @@
+
+Customer Complaints Process
+
+All customer complaints must be recorded in the customer service system within one business day of receipt. The assigned service representative must acknowledge the complaint within two business days.
+
+Complaints must be categorized by issue type, severity, customer impact, and responsible business area. Critical complaints involving safety, privacy, material financial impact, or regulatory concerns must be escalated to the service manager immediately.
+
+The responsible team should provide an initial action plan within three business days and target resolution within ten business days. If the target cannot be met, the customer must receive a status update and revised expected resolution date.
+
+Resolved complaints require documentation of the root cause, corrective action, customer communication, and any process improvement identified.

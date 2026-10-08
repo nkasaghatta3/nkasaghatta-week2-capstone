@@ -1,0 +1,10 @@
+
+Enterprise Security Policy
+
+All employees and contractors must use multi-factor authentication for systems that contain company or customer information. Access must follow the principle of least privilege and must be removed promptly when a person's role changes or employment ends.
+
+Confidential information must be encrypted both in transit and at rest. Employees must not store confidential data in unapproved personal applications or devices.
+
+Security incidents, suspected phishing, lost devices, and unauthorized access must be reported to the security team immediately through the incident reporting channel.
+
+System owners must review access permissions at least quarterly. Exceptions to this policy require documented approval from the security team and the relevant business owner.
