@@ -41,8 +41,9 @@ Grounded response   SQL validation and execution
                  |
                  v
        Tokenomics logging
-'''
-Manager agent
+```
+
+##Manager agent
 The manager classifies each query as:
 
 qualitative: documentation, policies, procedures, or explanations
