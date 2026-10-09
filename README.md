@@ -43,7 +43,7 @@ Grounded response   SQL validation and execution
        Tokenomics logging
 ```
 
-##Manager agent
+## Manager agent
 The manager classifies each query as:
 
 qualitative: documentation, policies, procedures, or explanations
@@ -90,7 +90,7 @@ Enterprise Security Policy
 Software Code Review Process
 Customer Complaints Process
 
-##Setup
+## Setup
 
 Create and activate a Python virtual environment.
 Install the packages listed in requirements.txt.
@@ -113,7 +113,7 @@ How many customers have a recorded churn date?
 What is the average tenure by department?
 How do we handle customer complaints?
 
-##Validation and Trust-but-Verify
+## Validation and Trust-but-Verify
 The system does not automatically trust model output. It validates generated SQL before execution and checks qualitative answers against retrieved context.
 Example 1: Average tenure by department
 Query: What is the average tenure by department?
@@ -186,7 +186,7 @@ How many employees are in each department, and what is the average employee sati
 What are the provided documents?
 
 Each completed run was routed to an appropriate agent, produced tokenomics records, and returned a validated answer.
-##Tokenomics
+## Tokenomics
 Every model call is logged in tokenomics_log.jsonl with:
 
 Timestamp
